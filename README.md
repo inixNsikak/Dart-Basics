@@ -1,1 +1,1 @@
-A simple command-line application.
+Code file is in the Bin folder
